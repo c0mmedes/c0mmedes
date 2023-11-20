@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">✒ Blog </h3>
 <p align="center">
-	https://c0mmedes.github.io
+	https://c0mmedes.tistory.com
 </p>
 <br>
 <h3 align="center">📊 GitHub Stats  </h3>
